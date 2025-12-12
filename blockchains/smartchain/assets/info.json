@@ -1,0 +1,25 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 6,
+  "description": "Tether token on BNB Smart Chain",
+  "website": "https://tether.to",
+  "explorer": "https://bscscan.com/token/0x4F46AAC97eeC47C0Aa84807f7E7a827a2Bd88048",
+  "status": "active",
+  "id": "0x4F46AAC97eeC47C0Aa84807f7E7a827a2Bd88048",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/tetherto"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/Tether_to"
+    }
+  ],
+  "tags": [
+    "stablecoin",
+    "defi"
+  ]
+}
